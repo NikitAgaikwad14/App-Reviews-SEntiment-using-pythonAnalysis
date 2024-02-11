@@ -1,1 +1,3 @@
 # App-Reviews-SEntiment-using-pythonAnalysis
+
+I have uploaded a project on GitHub as part of my personal portfolio, focusing on "App Reviews Sentiment Analysis." This project revolves around evaluating and comprehending the sentiments conveyed in user reviews of mobile applications (apps). The analysis employs data analysis techniques to discern whether the sentiments within these reviews lean towards being positive, negative, or neutral. If you are interested in learning how to analyze the sentiments expressed in reviews for any app, this article is designed for you. I will guide you through the process of App Reviews Sentiment Analysis using Python in this article
